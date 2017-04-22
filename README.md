@@ -1,4 +1,7 @@
-# test coverage for  [npmi (v2.0.1)](https://github.com/maxleiko/npmi)  [![npm package](https://img.shields.io/npm/v/npmtest-npmi.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npmi) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npmi.svg)](https://travis-ci.org/npmtest/node-npmtest-npmi)
+# npmtest-npmi
+
+#### basic test-coverage for  [npmi (v2.0.1)](https://github.com/maxleiko/npmi)  [![npm package](https://img.shields.io/npm/v/npmtest-npmi.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-npmi) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-npmi.svg)](https://travis-ci.org/npmtest/node-npmtest-npmi)
+
 #### Gives a simplier API to npm install (programatically installs stuffs)
 
 [![NPM](https://nodei.co/npm/npmi.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/npmi)
@@ -73,7 +76,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
